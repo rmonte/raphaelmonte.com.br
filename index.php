@@ -3,7 +3,7 @@
 <html lang="pt-br">
 
     <head>
-    
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-H4Q2S0NMG2"></script>
         <script>
@@ -84,7 +84,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <img src="raphael-monte-perfil.jpeg" alt="Raphael Monte" class="img-fluid rounded-circle mx-auto d-block mt-5">
+                                <img src="raphael-monte-perfil.jpeg" alt="Raphael Monte" style="max-width:200px" class="img-fluid rounded-circle mx-auto d-block mt-5">
                             </div>
                         </div>
 
