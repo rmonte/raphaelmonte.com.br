@@ -3,6 +3,16 @@
 <html lang="pt-br">
 
     <head>
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-H4Q2S0NMG2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-H4Q2S0NMG2');
+        </script>
 
         <!-- META TAGS -->
         <meta charset="utf-8">
