@@ -100,11 +100,11 @@
                                 <p class="text-justify">Olá, eu sou Raphael.</p><br>
                                 <p class="text-justify">
                                     Desde criança sempre fui um aficionado por tudo relacionado a ciência e tecnologia. 
-Sou formado em Tecnologia da Informação e em Engenharia de Software e desde então estou nessa jornada de aprendizado e criação desde 2003.
-Trabalhei em muitos projetos e para as mais diversas finalidade, desde um sistema monitoramento de fraudes a um site de comércio eletrônico.
-Conheco de tudo um pouco em tecnologia como Linux, hardware, bancos de dados etc, mais a minha especialidade é a programação principalmente com PHP e Python.
+Sou formado em Tecnologia da Informação e em Engenharia de Software e desde 2003 estou nessa jornada de aprendizado e criação.
+Trabalhei em muitos projetos para as mais diversas finalidades, desde um sistema monitoramento de fraudes a um site de comércio eletrônico.
+Conheço de tudo um pouco em tecnologia, como Linux, hardware, bancos de dados etc, mais as minhais especialidade são ciência de dados e programação, principalmente com PHP e Python.
 
-Convido a você me conhecer melhor, veja as minhas redes sociais abaixo e entre em contato comigo. 
+Convido você para me conhecer melhor, acesse as minhas redes sociais abaixo e/ou entre em contato comigo. 
                                 </p>
                             </div>
                             <div class="col-sm-1 col-md-3"></div>
