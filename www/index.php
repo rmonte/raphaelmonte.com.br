@@ -84,7 +84,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <img src="raphael-monte-perfil.jpeg" alt="Raphael Monte" style="max-width:200px" class="img-fluid rounded-circle mx-auto d-block mt-5">
+                                <img src="media/raphael-monte-perfil.jpeg" alt="Raphael Monte" style="max-width:200px" class="img-fluid rounded-circle mx-auto d-block mt-5">
                             </div>
                         </div>
 
@@ -97,10 +97,14 @@
                         <div class="row mt-4">
                             <div class="col-sm-1 col-md-3"></div>
                             <div class="col-sm-10 col-md-6">
-                                <p class="text-justify">Olá, eu sou Raphael. Eu construo softwares para a web.</p>
+                                <p class="text-justify">Olá, eu sou Raphael.</p><br>
                                 <p class="text-justify">
-                                    Eu gosto de trabalhar com <a href="https://pt.wikipedia.org/wiki/PHP" target="_blank" title="Leia a definição da linguagem PHP na Wikipédia" class="y">PHP</a>,  <a href="https://pt.wikipedia.org/wiki/Javascript" target="_blank" title="Leia a definição da linguagem Javascript na Wikipédia" class="y">Javascript</a>, <a href="https://pt.wikipedia.org/wiki/html" target="_blank" title="Leia a definição da linguagem HTML na Wikipédia" class="y">HTML</a>, <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" title="Leia a definição da linguagem CSS na Wikipédia" class="y">CSS</a>, <a href="https://pt.wikipedia.org/wiki/sql" target="_blank" title="Leia a definição da linguagem SQL na Wikipédia" class="y">SQL</a>, <a href="https://pt.wikipedia.org/wiki/python" target="_blank" title="Leia a definição da linguagem Python na Wikipédia" class="y">Python</a>.
-                                    Quando não estou programando eu gosto de jogar videogames, ler livros, fotografar, cozinhar e viajar.
+                                    Desde criança sempre fui um aficionado por tudo relacionado a ciência e tecnologia. 
+Sou formado em Tecnologia da Informação e em Engenharia de Software e desde então estou nessa jornada de aprendizado e criação desde 2003.
+Trabalhei em muitos projetos e para as mais diversas finalidade, desde um sistema monitoramento de fraudes a um site de comércio eletrônico.
+Conheco de tudo um pouco em tecnologia como Linux, hardware, bancos de dados etc, mais a minha especialidade é a programação principalmente com PHP e Python.
+
+Convido a você me conhecer melhor, veja as minhas redes sociais abaixo e entre em contato comigo. 
                                 </p>
                             </div>
                             <div class="col-sm-1 col-md-3"></div>
@@ -164,7 +168,7 @@
         </footer>
 
         <!-- JAVASCRIPT -->
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     
