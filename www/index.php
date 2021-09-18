@@ -10,7 +10,6 @@
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-
             gtag('config', 'G-H4Q2S0NMG2');
         </script>
 
@@ -24,52 +23,10 @@
         <!-- FONTS -->
         <link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100&display=swap" rel="stylesheet"> 
 
-        <title>Raphael Monte</title>
-
         <!-- CUSTOM CSS -->
-        <style>
-
-            html, body {
-                height: 100%;
-                font-family: 'Roboto', sans-serif;
-                font-size: 1.3rem;
-            }
-
-            h1 {
-                font-size: 3rem;
-            }
-
-            svg {
-                width: 1.5rem;
-                margin: 0.5rem;
-            }
-
-            p {
-                margin: 0px;
-            }
-
-            a:hover {
-                text-decoration: none;
-            }
-
-            .y {
-                background-color: yellow;
-            }
-
-            a.y {
-                /* text-decoration: underline; */
-                color: black;
-            }
-            
-            a:hover.y {
-                color: black;
-            }
-
-            .footer {
-                font-size: 1rem;
-            }
-
-        </style>
+        <link rel="stylesheet" href="css/default.css?v1">
+        
+        <title>Raphael Monte</title>
 
     </head>
 
@@ -102,10 +59,9 @@
                                     Desde criança sempre fui um aficionado por tudo relacionado a ciência e tecnologia. 
 Sou formado em Tecnologia da Informação e em Engenharia de Software e desde 2003 estou nessa jornada de aprendizado e criação.
 Trabalhei em muitos projetos para as mais diversas finalidades, desde um sistema monitoramento de fraudes a um site de comércio eletrônico.
-Conheço de tudo um pouco em tecnologia, como Linux, hardware, bancos de dados etc, mais as minhais especialidade são ciência de dados e programação, principalmente com PHP e Python.
-
-Convido você para me conhecer melhor, acesse as minhas redes sociais abaixo e/ou entre em contato comigo. 
-                                </p>
+Conheço de tudo um pouco em tecnologia, como Linux, hardware, bancos de dados etc, mas as minhas especialidades são ciência de dados e programação, principalmente com PHP e Python.
+                                </p><br>
+                                <p>Convido você para me conhecer melhor, acesse as minhas redes sociais abaixo e/ou entre em contato comigo pelo email: <code>raphael.monte@protonmail.com</code> </p>
                             </div>
                             <div class="col-sm-1 col-md-3"></div>
                         </div>
@@ -142,13 +98,6 @@ Convido você para me conhecer melhor, acesse as minhas redes sociais abaixo e/o
                                     </svg>
                                 </a>
 
-                                <a href="mailto:raphaeldetarso@gmail.com" target="_blank">
-                                    <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24">
-                                        <title>Gmail</title>
-                                        <path d="M24 4.5v15c0 .85-.65 1.5-1.5 1.5H21V7.387l-9 6.463-9-6.463V21H1.5C.649 21 0 20.35 0 19.5v-15c0-.425.162-.8.431-1.068C.7 3.16 1.076 3 1.5 3H2l10 7.25L22 3h.5c.425 0 .8.162 1.069.432.27.268.431.643.431 1.068z"/>
-                                    </svg>
-                                </a>
-
                             </div>
 
                         </div>
@@ -163,7 +112,7 @@ Convido você para me conhecer melhor, acesse as minhas redes sociais abaixo e/o
 
         <footer class="footer mt-auto py-3">
             <div class="container text-center">
-                <span class="text-muted">Copyright © 2020 - Raphael Monte</span>
+                <span class="text-muted">Copyright © <?php echo date('Y'); ?> - Raphael Monte</span>
             </div>
         </footer>
 

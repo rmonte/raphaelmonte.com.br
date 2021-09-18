@@ -1,0 +1,45 @@
+
+html, body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+svg {
+    width: 2rem;
+    margin: 1rem;
+}
+
+p {
+    margin: 0px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.y {
+    background-color: yellow;
+}
+
+a.y {
+    /* text-decoration: underline; */
+    color: black;
+}
+
+a:hover.y {
+    color: black;
+}
+
+.footer {
+    font-size: 1rem;
+}
+
+code {
+    color: #000000;
+    background-color: yellow;
+}
