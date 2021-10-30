@@ -3,9 +3,20 @@
 <html lang="pt-br">
 
     <head>
+        <!--
+            BEM-VINDO CURIOSO! 
+
+            Para mim ser curioso (curioso é diferente de fofoqueiro) é uma qualidade que eu valorizo,
+            por isso fique a vontade para olhar o meu código.
+
+            Caso queira ver mais coisas, acesse o meu Github https://github.com/rmonte
+
+            ;)
+        -->
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-H4Q2S0NMG2"></script>
+
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -24,7 +35,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100&display=swap" rel="stylesheet"> 
 
         <!-- CUSTOM CSS -->
-        <link rel="stylesheet" href="css/default.css?v1">
+        <link rel="stylesheet" href="css/default.css?v2">
         
         <title>Raphael Monte</title>
 
@@ -47,16 +58,16 @@
 
                         <div class="row mt-4">
                             <div class="col-12 text-center">
-                                <h1>Raphael Monte</h1>
+                                <h1 class="main-title">Raphael Monte</h1>
                             </div>
                         </div>
 
                         <div class="row mt-4">
                             <div class="col-sm-1 col-md-3"></div>
                             <div class="col-sm-10 col-md-6">
-                                <p class="text-justify">Olá, eu sou Raphael.</p><br>
+                                <p class="big yellow">Olá,</p>
                                 <p class="text-justify">
-                                    Desde criança sempre fui um aficionado por tudo relacionado a ciência e tecnologia. 
+                                eu sou Raphael, desde criança sempre fui um aficionado por tudo relacionado a ciência e tecnologia. 
 Sou formado em Tecnologia da Informação e em Engenharia de Software e desde 2003 estou nessa jornada de aprendizado e criação.
 Trabalhei em muitos projetos para as mais diversas finalidades, desde um sistema monitoramento de fraudes a um site de comércio eletrônico.
 Conheço de tudo um pouco em tecnologia, como Linux, hardware, bancos de dados etc, mas as minhas especialidades são ciência de dados e programação, principalmente com PHP e Python.
@@ -112,14 +123,14 @@ Conheço de tudo um pouco em tecnologia, como Linux, hardware, bancos de dados e
 
         <footer class="footer mt-auto py-3">
             <div class="container text-center">
-                <span class="text-muted">Copyright © <?php echo date('Y'); ?> - Raphael Monte</span>
+                <span class="yellow">Copyright © <?php echo date('Y'); ?> - Raphael Monte</span>
             </div>
         </footer>
 
         <!-- JAVASCRIPT -->
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     
     </body>
 

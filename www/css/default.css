@@ -3,6 +3,8 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
     font-size: 1.3rem;
+    background-color: black!important;
+    color: white;
 }
 
 h1 {
@@ -42,4 +44,17 @@ a:hover.y {
 code {
     color: #000000;
     background-color: yellow;
+}
+
+.big {
+    font-size:4rem;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.main-title {
+    background-color: yellow;
+    color: #000000;
 }
